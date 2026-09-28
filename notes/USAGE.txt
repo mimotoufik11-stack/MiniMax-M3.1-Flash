@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+USAGE.txt
+unpack zip, open MiniMax Code, pick M3.1-Flash
